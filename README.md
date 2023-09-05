@@ -3,7 +3,9 @@
 
 ## The Device
 
-Press the button to send an alert to the app.
+Press the button to send an alert to the app with your GPS location.
+
+In the app, change who can view your location and get help.
 
 ![Device](red-siren-1.jpeg)<br>
 ![Device](red-siren-2.jpeg)
